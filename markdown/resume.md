@@ -16,7 +16,7 @@ Education
     GPA: 3.778 / 4.0
 
 2011-2015
-:   **B.E, Electrical and Electronics Engineering**; Anna University (Chennai)
+:   **B.E, Electrical and Electronics Engineering**; Anna University- Velammal Engineering College(Chennai)
 
     GPA: 8.512 / 10
 
@@ -31,7 +31,7 @@ Worked with the Network Block Interface (NBI) team, to develop, modify and debug
 
 * Removed the Packet Modifier (PM) sub-block in NBI to reduce area and power and implemented logic required for the two features(of the several features provided by PM)that the PM was being used for.
 
-**Engineering Intern, Netronome**
+**Engineering Intern, Netronome, May 2016 - Aug 2016**
 
 Worked on design blocks such as Island Master Bridge, Memory Unit-Cluster Local Scratch and got training to use Emulator
 
@@ -54,13 +54,14 @@ Open Source
     your idea...
 
 Programming Languages
-:   **Verilog/SystemVerilog:** 
 
-:   **python:** 
+:   **Verilog/SystemVerilog:** Advanced understanding of this popular HDL, which I use on an everyday basis at work. 
 
-:   **C:** 
+:   **python:** I frquently use python to do architectural modelling and to develop block level test benches for CDL (a HDL used in Netronome) based designs.
 
-:   Basic knowledge of **C**, **Javascript**, **HTML**, **Java**, **TCL**, **Shell**, **SQL**,
+:   **C:** I used C frequently at University.
+
+:   Basic knowledge of **VHDL**, **C++**, **Javascript**, **HTML**, **Java**, **TCL**, **Shell**, **SQL**, **Matlab**
 
 [ref]: https://github.com/Sash-github-account
 
@@ -72,7 +73,6 @@ Extras
      * Tamil (native speaker)
      * English
      * German (Beginner proficiency)
-
 
 
 ----
