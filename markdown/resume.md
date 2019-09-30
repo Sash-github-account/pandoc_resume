@@ -2,9 +2,7 @@ Sashwath Nalin kanth
 ============
 
 ----
-
 >  To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me.
-
 ----
 
 Education
