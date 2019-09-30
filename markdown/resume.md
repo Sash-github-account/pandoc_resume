@@ -42,9 +42,13 @@ Academic Projects
 :   Here are some of my interesting academic projects.
 
     * Mini Stereo Digital Audio Processor - a complete ASIC design project with RTL coding, SV testbench and APR.
-    * DSP COMPUTATIONAL MODEL - A C based computation model for a convolution function of the filter used in digital audio processor.
+    
+    * DSP Computational Model - A C based computation model for a convolution function of the filter used in digital audio processor.
+    
     * Trivium Cipher physical design with custom library 
+    
     * Low Noise Amplifier - a low noise amplifier operating at 2.4 to 2.5 GHz, 1.2 V, with a transducer gain of 13.9 dB.
+    
     * On-Chip Spiral Inductor Model - A Matlab based mathematical model to optimise the dimensions of an on-chip inductor
 
 Programming Languages
