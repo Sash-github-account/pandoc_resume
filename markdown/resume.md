@@ -53,7 +53,7 @@ Programming Languages
 
 :   **Verilog/SystemVerilog:** Advanced understanding of this popular HDL, which I use on an everyday basis at work. 
 
-:   **python:** I frequently use python to do architectural modelling and to develop block level test benches for CDL based designs.
+:   **python:** I frequently use python to do architectural modelling and to develop block level test benches for RTL.
 
 :   **C:** I used C frequently at University.
 
@@ -69,8 +69,6 @@ Extras
      * Tamil (native speaker)
      * English
      * German (Beginner proficiency)
-
-
 ----
 
 > <nsash1993@gmail.com> • +01 (469) 664 4915\
