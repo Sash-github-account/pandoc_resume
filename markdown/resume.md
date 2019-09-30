@@ -38,20 +38,14 @@ Worked on design blocks such as Island Master Bridge, Memory Unit-Cluster Local 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Academic Projects
+:   Here are some of my interesting academic projects.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    * Mini Stereo Digital Audio Processor - a complete ASIC design project with RTL coding, SV testbench and APR.
+    * DSP COMPUTATIONAL MODEL - A C based computation model for a convolution function of the filter used in digital audio processor.
+    * Trivium Cipher physical design with custom library 
+    * Low Noise Amplifier - a low noise amplifier operating at 2.4 to 2.5 GHz, 1.2 V, with a transducer gain of 13.9 dB.
+    * On-Chip Spiral Inductor Model - A Matlab based mathematical model to optimise the dimensions of an on-chip inductor
 
 Programming Languages
 
