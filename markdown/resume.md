@@ -41,7 +41,7 @@ Academic Projects
 
     * Mini Stereo Digital Audio Processor - a complete ASIC design project with RTL coding, SV testbench and APR.
     
-    * DSP Computational Model - A C based computation model for a convolution function of the filter used in digital audio processor.
+    * DSP Computational Model - A C based computation model for a convolution function of the filter used in MSDAP.
     
     * Trivium Cipher physical design with custom library 
     
@@ -53,7 +53,7 @@ Programming Languages
 
 :   **Verilog/SystemVerilog:** Advanced understanding of this popular HDL, which I use on an everyday basis at work. 
 
-:   **python:** I frequently use python to do architectural modelling and to develop block level test benches for CDL (a HDL used in Netronome) based designs.
+:   **python:** I frequently use python to do architectural modelling and to develop block level test benches for CDL based designs.
 
 :   **C:** I used C frequently at University.
 
