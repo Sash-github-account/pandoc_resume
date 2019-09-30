@@ -57,7 +57,7 @@ Programming Languages
 
 :   **Verilog/SystemVerilog:** Advanced understanding of this popular HDL, which I use on an everyday basis at work. 
 
-:   **python:** I frquently use python to do architectural modelling and to develop block level test benches for CDL (a HDL used in Netronome) based designs.
+:   **python:** I frequently use python to do architectural modelling and to develop block level test benches for CDL (a HDL used in Netronome) based designs.
 
 :   **C:** I used C frequently at University.
 
