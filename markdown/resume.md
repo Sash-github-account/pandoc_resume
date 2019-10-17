@@ -62,8 +62,11 @@ Skills
 :   **Other**: VHDL, C++, Javascript, HTML, Java, TCL, Shell, SQL, Matlab
 
 **Tools**
-Cadence: Virtuoso layout editor, Schematic capture: Spectre, Assura, Encounter APR, Innovus, Genus Synopsys: HSPICE, Design Compiler, TetraMax -
-ATPG, Xilinx ISE, Quartus Prime, ModelSim.
+:   **Cadence**: Virtuoso layout editor, Schematic capture: Spectre, Assura, Encounter APR, Innovus, Genus 
+:   **Synopsys**: HSPICE, Design Compiler, TetraMax -ATPG 
+:   **Xilinx**: ISE
+:   **Altera**: Quartus Prime
+:   **Mentor**: ModelSim
 
 [ref]: https://github.com/Sash-github-account
 
