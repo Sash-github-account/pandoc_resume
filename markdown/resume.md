@@ -42,13 +42,24 @@ Education
 Academic Projects
 --------------------
 DSP
-: a mini digital audio processor ASIC design project with RTL coding, SV testbench and APR.
+: a mini stereo digital audio processor FIR filter ASIC design project with RTL coding, SV testbench and APR.
 
 Crypto
 : Trivium Cipher physical design with custom library using Cadence Virtuoso.
 
 RF IC
 : a low noise amplifier operating at 2.4 to 2.5 GHz, 1.2 V, with a transducer gain of 13.9 dB.
+
+Analog
+: A fast settling op-amp using 0.25um, 2.5V CMOS technology to be used with switched-capacitor pipeline ADC.
+
+Modelling
+: a C language based computational model of an FIR filter, used in a digital audio processor.
+: a Matlab based on-chip spiral inductor model to compute the inductance, Q-factor for given dimensions of the spiral inductor.
+
+Undergrad
+: Wireless power transfer with self-regulated voltage for bio-medical implants.
+: RFID based parking system.
 
 Skills
 -------
@@ -59,16 +70,21 @@ Skills
 
 :   **Python, C:** I frequently use python to do architectural modeling and to develop block level test benches for RTL.
 
-:   **Other**: VHDL, C++, Javascript, HTML, Java, TCL, Shell, SQL, Matlab
+:   **Other**: VHDL, C++, Javascript, HTML, Java, TCL, Shell, SQL, Matlab, Perl
 
 **Tools**
-:   **Cadence**: Virtuoso layout editor, Schematic capture: Spectre, Assura, Encounter APR, Innovus, Genus 
-:   **Synopsys**: HSPICE, Design Compiler, TetraMax -ATPG 
+:   **Cadence**: Virtuoso layout editor, Schematic capture: Spectre, Assura, Encounter APR, Innovus, Genus, Incesive Suite
+:   **Synopsys**: VCS, Design Compiler, Design Vision, TetraMax - ATPG 
+:   **Analog**: HSPICE
 :   **Xilinx**: ISE
-:   **Altera**: Quartus Prime
+:   **Altera**: Quartus Prime - Cyclone 5 FPGA
 :   **Mentor**: ModelSim
+:   **Operating Systems**: Unix/Linux, Windows, OS X
+:   **Documentation**: Microsoft- word, excel, powerpoint, Graffle
+:   **Version Control**: Git, Mercurial
 
 [ref]: https://github.com/Sash-github-account
+
 
 **Languages**
 
