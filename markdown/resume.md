@@ -14,11 +14,11 @@ Experience
 
 Worked on the Network Block Interface (NBI), to design and implement blocks in Traffic manager and DMA engine. Some highlights are:
 
-* Redesigned the ingress DMA engine to improve performance by over 150% (from 200 million pkts/sec to 330 Mpps). Improved efficiency of buffer allocation, and achieved in reduction sizing and power.
-
-* Redesigned Packet modification features and streamlined egress performance to substantially reduce area and power and increase performance.
-
 * Developed emulation wrappers and scripts to enable multi-chip emulation allowing for pre-silicon verification as well as board support software bring up to happen early in the development lifecycle. This resulted in many defects being found and fixed both in the silicon as well as in the software.
+
+* Redesigned and verified using pyCDL, a python based testbench, the ingress DMA engine to improve performance by over 150% (from 200 million pkts/sec to 330 Mpps). Improved efficiency of buffer allocation, and achieved in reduction sizing and power.
+
+* Redesigned and verified Packet modification features and streamlined egress performance to substantially reduce area and power and increase performance.
 
 
 **Engineering Intern, Netronome Systems Inc., Feb 2017 - Aug 2017**
