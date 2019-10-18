@@ -14,17 +14,25 @@ Experience
 
 Worked on the Network Block Interface (NBI), to design and implement blocks in Traffic manager and DMA engine. Some highlights are:
 
+RTL design experience:
+
 * Developed emulation wrappers and scripts for Cadence Palladium XP2 emulator, to enable multi-chip emulation allowing for pre-silicon verification as well as board support software bring up to happen early in the development lifecycle. This resulted in many defects being found and fixed both in the silicon as well as in the software.
 
 * Upgraded the ingress DMA engine to improve performance by over 150% (from 200 million pkts/sec to 330 Mpps). Improved efficiency of buffer allocation, and achieved in reduction sizing and power. 
-
-* Worked with senior designers and architects to develop a python based architectural model to study the impact of an improvised algorithm for automatic thresholding on the system. This helped in fine-tuning the algorithm before being implemented in RTL.
 
 * Improved the flow control logic in the ingress DMA engine to provide both manual and automatic thresholding capability, hence providing greater flexibility and software programmability.
 
 * Redesigned modification features such as barrel shifting of packet data and short packet padding and streamlined egress performance to substantially reduce area and power and increase performance.
 
 * Doubled the packet handling capability of the reorder logic in the traffic manager, by doubling the reorder buffer memory which doubled the performance of traffic manager.
+
+
+Architecture Modelling experience:
+
+* Worked with senior designers and architects to develop a python based architectural model to study the impact of an improvised algorithm for automatic thresholding on the system. This helped in fine-tuning the algorithm before being implemented in RTL.
+
+
+Verification experience:
 
 * Implemented unit level testbenches based on an in-house python verification package called pyCDL to testeach of the design upgrade, which led to early detection of bugs, easing the development of block level testbenches by the verification team.
 
