@@ -64,18 +64,18 @@ Crypto
 : Trivium Cipher physical design with custom library using Cadence Virtuoso.
 
 RF IC
-: a low noise amplifier operating at 2.4 to 2.5 GHz, 1.2 V, with a transducer gain of 13.9 dB.
+: A low noise amplifier operating at 2.4 to 2.5 GHz, 1.2 V, with a transducer gain of 13.9 dB.
 
 Analog
 : A fast settling op-amp using 0.25um, 2.5V CMOS technology to be used with switched-capacitor pipeline ADC.
 
 Modelling
-: a C language based computational model of an FIR filter, used in a digital audio processor.
-: a Matlab based on-chip spiral inductor model to compute the inductance, Q-factor for given dimensions of the spiral inductor.
+: A C language based computational model of an FIR filter, used in a digital audio processor.
+: A Matlab based on-chip spiral inductor model to compute the inductance, Q-factor for given dimensions of the spiral inductor.
 
 Undergrad
 : Wireless power transfer with self-regulated voltage for bio-medical implants.
-: RFID based parking system.
+: An RFID based parking system.
 
 Skills
 -------
