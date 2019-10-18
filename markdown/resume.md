@@ -2,6 +2,9 @@ Sashwath Nalin kanth
 ============
 
 ----
+> <nsash1993@gmail.com> - +1 (469) 664-4915 - 40 Commons Drive #4, Shrewsbury, MA, USA
+
+----
 
 >  To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me. - Sir Issac Newton
 
@@ -18,7 +21,7 @@ RTL design experience:
 
 * Developed emulation wrappers and scripts for Cadence Palladium XP2 emulator, to enable multi-chip emulation allowing for pre-silicon verification as well as board support software bring up to happen early in the development lifecycle. This resulted in many defects being found and fixed both in the silicon as well as in the software.
 
-* Upgraded the ingress DMA engine to improve performance by over 150% (from 200 million pkts/sec to 330 Mpps). Improved efficiency of buffer allocation, and achieved in reduction sizing and power. 
+* Upgraded the ingress DMA engine to improve performance by over 50% (from 200 million pkts/sec to 330 Mpps). Improved efficiency of buffer allocation, and achieved in reduction sizing and power. 
 
 * Improved the flow control logic in the ingress DMA engine to provide both manual and automatic thresholding capability, hence providing greater flexibility and software programmability.
 
@@ -108,6 +111,3 @@ Skills
 : Tamil (native speaker)
 : English
 : German (Beginner proficiency)
-
-----
-> <nsash1993@gmail.com> - +1 (469) 664-4915 - 40 Commons Drive #4, Shrewsbury, MA, USA
