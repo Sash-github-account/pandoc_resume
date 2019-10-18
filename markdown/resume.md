@@ -4,11 +4,7 @@ Sashwath Nalin kanth
 ----
 > <nsash1993@gmail.com> - +1 (469) 664-4915 - 40 Commons Drive #4, Shrewsbury, MA, USA
 
-----
 
->  To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me. - Sir Issac Newton
-
-----
 
 Experience
 ----------
