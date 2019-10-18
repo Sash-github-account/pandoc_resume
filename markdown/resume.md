@@ -14,11 +14,19 @@ Experience
 
 Worked on the Network Block Interface (NBI), to design and implement blocks in Traffic manager and DMA engine. Some highlights are:
 
-* Developed emulation wrappers and scripts to enable multi-chip emulation allowing for pre-silicon verification as well as board support software bring up to happen early in the development lifecycle. This resulted in many defects being found and fixed both in the silicon as well as in the software.
+* Developed emulation wrappers and scripts for Cadence Palladium XP2 emulator, to enable multi-chip emulation allowing for pre-silicon verification as well as board support software bring up to happen early in the development lifecycle. This resulted in many defects being found and fixed both in the silicon as well as in the software.
 
-* Redesigned and verified using pyCDL, a python based testbench, the ingress DMA engine to improve performance by over 150% (from 200 million pkts/sec to 330 Mpps). Improved efficiency of buffer allocation, and achieved in reduction sizing and power.
+* Upgraded the ingress DMA engine to improve performance by over 150% (from 200 million pkts/sec to 330 Mpps). Improved efficiency of buffer allocation, and achieved in reduction sizing and power. 
 
-* Redesigned and verified Packet modification features and streamlined egress performance to substantially reduce area and power and increase performance.
+* Worked with senior designers and architects to develop a python based architectural model to study the impact of an improvised algorithm for automatic thresholding on the system. This helped in fine-tuning the algorithm before being implemented in RTL.
+
+* Improved the flow control logic in the ingress DMA engine to provide both manual and automatic thresholding capability, hence providing greater flexibility and software programmability.
+
+* Redesigned modification features such as barrel shifting of packet data and short packet padding and streamlined egress performance to substantially reduce area and power and increase performance.
+
+* Doubled the packet handling capability of the reorder logic in the traffic manager, by doubling the reorder buffer memory which doubled the performance of traffic manager.
+
+* Implemented unit level testbenches based on an in-house python verification package called pyCDL to testeach of the design upgrade, which led to early detection of bugs, easing the development of block level testbenches by the verification team.
 
 
 **Engineering Intern, Netronome Systems Inc., Feb 2017 - Aug 2017**
@@ -42,7 +50,7 @@ Education
 Academic Projects
 --------------------
 DSP
-: a mini stereo digital audio processor FIR filter ASIC design project with RTL coding, SV testbench and APR.
+: a mini stereo digital audio processor ASIC design project with RTL coding, SV testbench and APR. This design implements an FIR filter with the co-efficients implemented in a specialised version of power of two format.
 
 Crypto
 : Trivium Cipher physical design with custom library using Cadence Virtuoso.
@@ -68,19 +76,20 @@ Skills
 
 :   **Verilog/SystemVerilog:** Advanced understanding of this popular HDL, which I use on an everyday basis at work. 
 
-:   **Python, C:** I frequently use python to do architectural modeling and to develop block level test benches for RTL.
+:   **Python, C:** I frequently use python to do architectural modeling and to develop block level test benches for RTL. 
 
-:   **Other**: VHDL, C++, Javascript, HTML, Java, TCL, Shell, SQL, Matlab, Perl
+:   **Other**: VHDL, C++, Javascript, HTML, Java, TCL, Shell, SQL, Matlab, Perl, R
 
 **Tools**
-:   **Cadence**: Virtuoso layout editor, Schematic capture: Spectre, Assura, Encounter APR, Innovus, Genus, Incesive Suite
+:   **Cadence**: Virtuoso layout editor, Schematic capture: Spectre, Assura, Encounter APR, Innovus, Genus, Incisive Suite
+:   **Emulation**: Cadence Palladium XP2
 :   **Synopsys**: VCS, Design Compiler, Design Vision, TetraMax - ATPG 
 :   **Analog**: HSPICE
 :   **Xilinx**: ISE
 :   **Altera**: Quartus Prime - Cyclone 5 FPGA
 :   **Mentor**: ModelSim
 :   **Operating Systems**: Unix/Linux, Windows, OS X
-:   **Documentation**: Microsoft- word, excel, powerpoint, Graffle
+:   **Documentation**: Microsoft- word, excel, powerpoint, Graffle - for block diagrams
 :   **Version Control**: Git, Mercurial
 
 [ref]: https://github.com/Sash-github-account
