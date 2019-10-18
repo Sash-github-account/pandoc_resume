@@ -4,8 +4,6 @@ Sashwath Nalin kanth
 ----
 > <nsash1993@gmail.com> - +1 (469) 664-4915 - 40 Commons Drive #4, Shrewsbury, MA, USA
 
-
-
 Experience
 ----------
 
