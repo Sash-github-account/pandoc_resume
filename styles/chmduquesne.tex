@@ -14,6 +14,7 @@ $if(mainlang)$
 \mainlanguage[$mainlang$]
 $endif$
 
+%sectioncolor h=397249
 \setupcolor[hex]
 \definecolor[titlegrey][h=757575]
 \definecolor[sectioncolor][h=397249]
@@ -38,8 +39,8 @@ $endif$
 
 \setuphead[chapter]      [style=\tfd]
 \setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
-\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
-                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right]
+                          %before={\leavevmode\blackrule\hspace}]%
 \setuphead[subsubsection][style=\bf]
 
 $if(number-sections)$
