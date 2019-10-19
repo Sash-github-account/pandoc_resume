@@ -89,9 +89,7 @@ Skills
 
 **Languages**
 
-: Tamil (native speaker)
-: English
-: German (Beginner proficiency)
+: Tamil (native speaker), English, German (Beginner proficiency)
 
 ----
 > <nsash1993@gmail.com> - +1 (469) 664-4915 - 40 Commons Drive #4, Shrewsbury, MA, USA
