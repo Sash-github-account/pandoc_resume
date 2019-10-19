@@ -10,7 +10,6 @@ Experience
 Worked on the Network Block Interface (NBI), to design and implement blocks in Traffic manager and DMA engine. Some highlights are:
 
 RTL design experience:
-
 * Upgraded the ingress DMA engine to improve performance by over 50% (from 200 million pkts/sec to 330 Mpps). Improved efficiency of buffer allocation, and achieved in reduction sizing and power. 
 
 * Improved the flow control logic in the ingress DMA engine to provide both manual and automatic thresholding capability, hence providing greater flexibility and software programmability.
@@ -21,14 +20,12 @@ RTL design experience:
 
 
 Verification and emulation experience:
-
 * Developed emulation wrappers and scripts for Cadence Palladium XP2 emulator, to enable multi-chip emulation allowing for pre-silicon verification as well as board support software bring up to happen early in the development lifecycle. This resulted in many defects being found and fixed both in the silicon as well as in the software.
 
 * Implemented unit level testbenches based on an in-house python verification package called pyCDL to testeach of the design upgrade, which led to early detection of bugs, easing the development of block level testbenches by the verification team.
 
 
 Architecture Modelling experience:
-
 * Worked with senior designers and architects to develop a python based architectural model to study the impact of an improvised algorithm for automatic thresholding on the system. This helped in fine-tuning the algorithm before being implemented in RTL.
 
 
