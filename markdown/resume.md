@@ -86,7 +86,7 @@ Skills
 :   **Other**: VHDL, C++, Javascript, HTML, Java, TCL, Shell, SQL, Matlab, Perl, R
 
 **Tools**
-   **Cadence**: Virtuoso layout editor, Schematic capture: Spectre, Assura, Encounter APR, Innovus, Genus, Incisive Suite, **Emulation**: Cadence Palladium XP2, **Synopsys**: VCS, Design Compiler, Design Vision, TetraMax - ATPG, **Analog**: HSPICE, **Xilinx**: ISE, **Altera**: Quartus Prime - Cyclone 5 FPGA, **Mentor**: ModelSim, **Operating Systems**: Unix/Linux, Windows, OS X, **Documentation**: Microsoft- word, excel, powerpoint, Graffle - for block diagrams, **Version Control**: Git, Mercurial
+:   **Cadence**: Virtuoso layout editor, Schematic capture: Spectre, Assura, Encounter APR, Innovus, Genus, Incisive Suite, **Emulation**: Cadence Palladium XP2, **Synopsys**: VCS, Design Compiler, Design Vision, TetraMax - ATPG, **Analog**: HSPICE, **Xilinx**: ISE, **Altera**: Quartus Prime - Cyclone 5 FPGA, **Mentor**: ModelSim, **Operating Systems**: Unix/Linux, Windows, OS X, **Documentation**: Microsoft- word, excel, powerpoint, Graffle - for block diagrams, **Version Control**: Git, Mercurial
 
 [ref]: https://github.com/Sash-github-account
 
