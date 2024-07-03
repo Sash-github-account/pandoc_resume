@@ -5,38 +5,65 @@ Sashwath Nalin kanth
 Experience
 ----------
 
+**Advanced Micro Devices, Senior Silicon Design Engineer, 2021-present**
+
+* Part of the Inference Processing Unit IP design and integration team, doing RTL Design and verification to deliver IP to multiple SoCs concurrently
+
+* Identified and implemented modification of testcases to capture robust and comprehensive signal toggle data to improve the accuracy and coverage of scenarios relevant for Power Analysis
+
+* Reduced power consumption of RTL by implementing enhancements based on analysis of data from various tools such as Power Artist and PTPX to modify RTL coding, identify clock gating opportunities 
+
+* Resolved several critical RTL bugs identified through various quality check tools such as Questa 0in- CDC/RDC, Spyglass for DFT readiness and VC-LP to fix issues with the UPFs of various internal blocks
+
+* Part of ARM CPU subsystem team, worked on the development and integration of a complex heterogenous multi-core sub system, along with the development of satellite interface blocks such as network interconnect (NIC-400), interrupt controller (GIC) and controllers for firmware and debug features
+
+* Developed micro architecture specification for a block that controls power and clock delivery for some of the ARM cores
+
+* Supported various other IP teams, sharing my expertise training new team members on handling tools and AMD's internal flows, interacted with CAD, SoC and customer IP teams to ensure smooth integration of multiple IPs and successful tape-out of the SoC
+
+* Automated and reduced turnaround time for various flows through development of python, shell, TCL and PERL based scripts and ensured smooth adoption of AMD's in-house flows for each of IP involved
+
+
+**Senior Design Engineer, Altran Technologies, 2019-2021**
+
+* Developed RTL in System Verilog for several features such as error handling, functional fuse pull, system network barrier and heartbeat control logic
+
+* Analyzed code coverage results and worked with validation team to achieve 99% toggle, branch and FSM coverage closure
+
+* Lead the front-end UPF development and isolation/level-shifter implementation for multiple subsystems, driving the cleanup of 5000+ VC-Low Power static checks to completion
+
+* Implemented an isolation checker with appropriate assertions, that was integrated into the test bench, leading to the capture and resolution of bugs related to the UPF’s isolation strategies
+
+* Implemented RTL- timing override units on multi-cycle path in the design, such that appropriate MCP constraints are extracted automatically as a part of back-end flow, and is also used by the validation environment to ensure that the paths are simulated as per the design intent
+
+* Responsible for maintaining general quality of sub-systems through various tools such as Spyglass-CDC, SG-DFT and Lint checking
+
+* Integral member of sub-system integration team, coordinating and communicating with different vendors and IP teams, and ensuring proper consumption and integration of required IPs
+
+
 **Silicon Design Engineer, Netronome Systems Inc., 2018-2019**
 
-Worked on the Network Block Interface (NBI), to design and implement blocks in Traffic manager and DMA engine. Some highlights are:
+* Worked on the Network Block Interface (NBI), to design and implement blocks in Traffic manager and DMA engine
 
-RTL design experience:
+* Upgraded the ingress DMA engine to improve performance by over 50% (from 200 million pkts/sec to 330 Mpps). Improved efficiency of buffer allocation, and achieved in reduction sizing and power
 
-* Upgraded the ingress DMA engine to improve performance by over 50% (from 200 million pkts/sec to 330 Mpps). Improved efficiency of buffer allocation, and achieved in reduction sizing and power. 
+* Improved the flow control logic in the ingress DMA engine to provide both manual and automatic thresholding capability, hence providing greater flexibility and software programmability
 
-* Improved the flow control logic in the ingress DMA engine to provide both manual and automatic thresholding capability, hence providing greater flexibility and software programmability.
+* Redesigned modification features such as barrel shifting of packet data and short packet padding and streamlined egress performance to substantially reduce area and power and increase performance
 
-* Redesigned modification features such as barrel shifting of packet data and short packet padding and streamlined egress performance to substantially reduce area and power and increase performance.
+* Doubled the packet handling capability of the reorder logic in the traffic manager, by doubling the reorder buffer memory which doubled the performance of traffic manager
 
-* Doubled the packet handling capability of the reorder logic in the traffic manager, by doubling the reorder buffer memory which doubled the performance of traffic manager.
+* Developed emulation wrappers and scripts for Cadence Palladium XP2 emulator, to enable multichip emulation allowing for pre-silicon verification as well as board support software bring up to happen early in the development lifecycle
 
-Verification and emulation experience:
+* Implemented unit level testbenches based on an in-house python verification package called py-CDL to test each of the design upgrade, which led to early detection of bugs, easing the development of block level testbenches by the verification team
 
-* Developed emulation wrappers and scripts for Cadence Palladium XP2 emulator, to enable multi-chip emulation allowing for pre-silicon verification as well as board support software bring up to happen early in the development lifecycle. This resulted in many defects being found and fixed both in the silicon as well as in the software.
+* Architecture Modelling experience: Worked with senior designers and architects to develop a python based architectural model to study the impact of an improvised algorithm for automatic thresholding on the system. This helped in fine-tuning the algorithm before being implemented in RTL
 
-* Implemented unit level testbenches based on an in-house python verification package called pyCDL to testeach of the design upgrade, which led to early detection of bugs, easing the development of block level testbenches by the verification team.
+**Engineering Intern, Netronome Systems Inc., Feb 2017 - Aug 2017 and May 2016 - Aug 2016**
 
-Architecture Modelling experience:
+* Got extensive experience debugging many key RTL blocks such as Island Master Bridge, Memory Unit, and supported Emulator based pre-silicon verification
 
-* Worked with senior designers and architects to develop a python based architectural model to study the impact of an improvised algorithm for automatic thresholding on the system. This helped in fine-tuning the algorithm before being implemented in RTL.
-
-
-**Engineering Intern, Netronome Systems Inc., Feb 2017 - Aug 2017**
-
-* Got extensive experience, debugging many key blocks such as Island Master Bridge, Memory Unit, and supported Emulator based pre-silicon verification.
-
-**Engineering Intern, Netronome Systems Inc., May 2016 - Aug 2016**
-
-* Performed code coverage analysis and helped the development team achieve code coverage for the Harrier C0 silicon effort.
+* Performed code coverage analysis to achieve 96% code coverage through development of coverage bins
 
 Education
 ---------
@@ -51,7 +78,7 @@ Education
 Academic Projects
 --------------------
 DSP
-: a mini stereo digital audio processor ASIC design project with RTL coding, SV testbench and APR. This design implements an FIR filter with the co-efficients implemented in a specialised version of power of two format.
+: A mini stereo digital audio processor ASIC design project with RTL coding, SV testbench and APR. This design implements an FIR filter with the co-efficients implemented in a specialised version of power of two format.
 
 Crypto
 : Trivium Cipher physical design with custom library using Cadence Virtuoso.
@@ -60,7 +87,7 @@ RF IC
 : A low noise amplifier operating at 2.4 to 2.5 GHz, 1.2 V, with a transducer gain of 13.9 dB.
 
 Analog
-: A fast settling op-amp using 0.25um, 2.5V CMOS technology to be used with switched-capacitor pipeline ADC.
+: A fast settling operational amplifier using 0.25um, 2.5V CMOS technology to be used with switched-capacitor pipeline ADC.
 
 Modelling
 : A C language based computational model of an FIR filter, used in a digital audio processor.
@@ -75,14 +102,14 @@ Skills
 
 **Programming Languages**
 
-:   **Verilog/SystemVerilog:** Advanced understanding of this popular HDL, which I use on an everyday basis at work. 
+:   **Verilog/SystemVerilog:** Advanced understanding along with experience in useage of UVM based test benches 
 
-:   **Python, C:** I frequently use python to do architectural modeling and to develop block level test benches for RTL. 
+:   **Python, Perl, TCL, Shell:** For architectural modeling and scripting
 
-:   **Other**: VHDL, C++, Javascript, HTML, Java, TCL, Shell, SQL, Matlab, Perl, R
+:   **Other**: VHDL, C, C++, Javascript, HTML, SQL, Matlab, R
 
 **Tools**
-:   **Cadence**: Virtuoso layout editor, Schematic capture: Spectre, Assura, Encounter APR, Innovus, Genus, Incisive Suite, **Emulation**: Cadence Palladium XP2, **Synopsys**: VCS, Design Compiler, Design Vision, TetraMax - ATPG, **Analog**: HSPICE, **Xilinx**: ISE, **Altera**: Quartus Prime - Cyclone 5 FPGA, **Mentor**: ModelSim, **Operating Systems**: Unix/Linux, Windows, OS X, **Documentation**: Microsoft- word, excel, powerpoint, Graffle - for block diagrams, **Version Control**: Git, Mercurial
+:   **AMD-Xilinx** Vivado, ISE, **Intel** Quartus Prime, **Cadence**:  Virtuoso layout editor, Schematic capture: Spectre, Assura, Encounter APR, Innovus, Genus, Incisive Suite, **Emulation**: Cadence Palladium XP2, **Synopsys**: VCS, Spyglass Suite, Design Compiler, Design Vision, TetraMax - ATPG, **Mentor**: ModelSim, Questa Suite, **Analog**: HSPICE, **Operating Systems**: Unix/Linux, Windows, OS X, **Documentation**: Microsoft- word, excel, powerpoint, OneNote, Visio - for block diagrams, **Version Control**: Perforce, Git, Mercurial
 
 [ref]: https://github.com/Sash-github-account
 
