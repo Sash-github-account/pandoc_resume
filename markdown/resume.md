@@ -1,4 +1,4 @@
-Sashwath Nalin kanth
+**Sashwath Nalin kanth**
 ============
 > <nsash1993@gmail.com> - +1 (469) 664-4915 - 40 Commons Drive #4, Shrewsbury, MA, USA
 
@@ -77,8 +77,20 @@ Education
 
 Academic Projects
 --------------------
+Computer Architecture
+: Design and verification of 32 bit, 5 stage MIPS processor and implementation in de10Nano fpga
+
+Embedded Systems
+: Implementation of task scheduler in ARM cortex M3
+: Python based basic C compiler supporting reduced features and instructions, targeting 32 bit 5 stage MIPS processor
+
+ASIC/FPGA Accelarator design
+: RTL Implementation of Support Vector Machine ML algorithm for FPGA
+: RTL Implementation of a Linked List management unit
+: RTL Implementation of accelerator for simple Scientific functions
+
 DSP
-: A mini stereo digital audio processor ASIC design project with RTL coding, SV testbench and APR. This design implements an FIR filter with the co-efficients implemented in a specialised version of power of two format.
+: A mini stereo digital audio processor ASIC design project with RTL coding, SV testbench and APR.
 
 Crypto
 : Trivium Cipher physical design with custom library using Cadence Virtuoso.
@@ -89,13 +101,12 @@ RF IC
 Analog
 : A fast settling operational amplifier using 0.25um, 2.5V CMOS technology to be used with switched-capacitor pipeline ADC.
 
-Modelling
+Other
 : A C language based computational model of an FIR filter, used in a digital audio processor.
 : A Matlab based on-chip spiral inductor model to compute the inductance, Q-factor for given dimensions of the spiral inductor.
-
-Undergrad
 : Wireless power transfer with self-regulated voltage for bio-medical implants.
 : An RFID based parking system.
+: Electromagnetic Field Simulation using Python
 
 Skills
 -------
